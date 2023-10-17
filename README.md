@@ -5,7 +5,9 @@
 
 Quantum algorithm design is hard. Express your feelings through quantum circuits with Gatemojis™. Gatemojis are designed to be used by themselves or together — put them side-by-side for their wires to automatically connect.
 
-Download and use Gatemojis across Slack, Discord, and anywhere else that supports custom emojis!
+Gatemojis are designed to be legible on both light or dark backgrounds, and at a small size to always look their best 💄
+
+Save the Gatemoji images and use Gatemojis across [Slack](https://slack.com/help/articles/206870177-Add-custom-emoji-and-aliases-to-your-workspace), [Discord](https://support.discord.com/hc/en-us/articles/360036479811-Custom-Emojis), and anywhere else that supports custom emojis!
 
 ## Available gatemojis
 
@@ -23,11 +25,6 @@ Gatemoji | Alias | Gatemoji | Alias | Gatemoji | Alias
 <img src="gatemojis/gate-ctrl.png" width="45" height="45" alt="ctrl"/> | `:gate-ctrl:` | <img src="gatemojis/gate-facepalm.png" width="45" height="45" alt="facepalm"/> | `:gate-facepalm:` | <img src="gatemojis/gate-thinking.png" width="45" height="45" alt="thinking"/> | `:gate-thinking:`
 <img src="gatemojis/gate-ctrl2.png" width="45" height="45" alt="ctrl2"/> | `:gate-ctrl2:` | <img src="gatemojis/gate-love.png" width="45" height="45" alt="love"/> | `:gate-love:` | <img src="gatemojis/gate-measure2.png" width="45" height="45" alt="measure2"/> | `:gate-measure2:` 
 <img src="gatemojis/gate-measure.png" width="45" height="45" alt="measure"/> | `:gate-measure:` | <img src="gatemojis/gate-shock.png" width="45" height="45" alt="shock"/> | `:gate-shock:`
-
-
-## Image guidelines.
-
-Gatemojis are designed to be legible on both light or dark backgrounds, and at a small size. Use the guideline below to make sure your gatemoji always look their best 💄
 
 ## License
 
