@@ -4,8 +4,8 @@ Quantum algorithm design is hard. Express your feelings through quantum circuits
 
 ## Available gatemojis
 
-Gatemoji | Alias | Gatemoji | Alias
--------- | ----- | -------- | -----
+Gatemoji | Alias | Gatemoji | Alias | Gatemoji | Alias
+-------- | ----- | -------- | ----- | -------- | -----
 <img src="gatemojis/gate-prep.png" width="40" height="40" alt="prep"/> | `:gate-prep:` | <img src="gatemojis/gate-pl.png" width="40" height="40" alt="pl"/> | `:gate-pl:` | <img src="gatemojis/gate-pl.png" width="40" height="40" alt="pl"/> | `:gate-pl:`
 <img src="gatemojis/gate-cnot.png" width="40" height="40" alt="cnot"/> | `:gate-cnot:` | <img src="gatemojis/gate-smile.png" width="40" height="40" alt="smile"/> | `:gate-smile:` | <img src="gatemojis/gate-lightning.png" width="40" height="40" alt="lightning"/> | `:gate-lightning:`
 <img src="gatemojis/gate-cnot2.png" width="40" height="40" alt="cnot2"/> | `:gate-cnot2:` | <img src="gatemojis/gate-laugh.png" width="40" height="40" alt="laugh"/> | `:gate-laugh:` | <img src="gatemojis/gate-cactus.png" width="40" height="40" alt="cactus"/> | `:gate-cactus:`
