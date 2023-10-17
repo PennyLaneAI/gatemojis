@@ -20,10 +20,9 @@ Gatemoji | Alias | Gatemoji | Alias | Gatemoji | Alias
 <img src="gatemojis/gate-top.png" width="45" height="45" alt="top"/> | `:gate-top:` | <img src="gatemojis/gate-sweat.png" width="45" height="45" alt="sweat"/> | `:gate-sweat:` | <img src="gatemojis/gate-100.png" width="45" height="45" alt="100"/> | `:gate-100:`
 <img src="gatemojis/gate-wires.png" width="45" height="45" alt="wires"/> | `:gate-wires:` | <img src="gatemojis/gate-tear.png" width="45" height="45" alt="tear"/> | `:gate-tear:` | <img src="gatemojis/gate-bread.png" width="45" height="45" alt="bread"/> | `:gate-bread:`
 <img src="gatemojis/gate-swap.png" width="45" height="45" alt="swap"/> | `:gate-swap:` | <img src="gatemojis/gate-evil.png" width="45" height="45" alt="evil"/> | `:gate-evil:` | <img src="gatemojis/gate-toast.png" width="45" height="45" alt="toast"/> | `:gate-toast:`
-<img src="gatemojis/gate-ctrl.png" width="45" height="45" alt="ctrl"/> | `:gate-ctrl:` | <img src="gatemojis/gate-facepalm.png" width="45" height="45" alt="facepalm"/> | `:gate-facepalm:`
-<img src="gatemojis/gate-ctrl2.png" width="45" height="45" alt="ctrl2"/> | `:gate-ctrl2:` | <img src="gatemojis/gate-love.png" width="45" height="45" alt="love"/> | `:gate-love:`
+<img src="gatemojis/gate-ctrl.png" width="45" height="45" alt="ctrl"/> | `:gate-ctrl:` | <img src="gatemojis/gate-facepalm.png" width="45" height="45" alt="facepalm"/> | `:gate-facepalm:` | <img src="gatemojis/gate-thinking.png" width="45" height="45" alt="thinking"/> | `:gate-thinking:`
+<img src="gatemojis/gate-ctrl2.png" width="45" height="45" alt="ctrl2"/> | `:gate-ctrl2:` | <img src="gatemojis/gate-love.png" width="45" height="45" alt="love"/> | `:gate-love:` | <img src="gatemojis/gate-measure2.png" width="45" height="45" alt="measure2"/> | `:gate-measure2:` 
 <img src="gatemojis/gate-measure.png" width="45" height="45" alt="measure"/> | `:gate-measure:` | <img src="gatemojis/gate-shock.png" width="45" height="45" alt="shock"/> | `:gate-shock:`
-<img src="gatemojis/gate-measure2.png" width="45" height="45" alt="measure2"/> | `:gate-measure2:` | <img src="gatemojis/gate-thinking.png" width="45" height="45" alt="thinking"/> | `:gate-thinking:`
 
 
 ## Image guidelines.
