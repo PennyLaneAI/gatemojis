@@ -6,7 +6,7 @@ Quantum algorithm design is hard. Express your feelings through quantum circuits
 
 Gatemoji | Alias | Gatemoji | Alias | Gatemoji | Alias
 -------- | ----- | -------- | ----- | -------- | -----
-<img src="gatemojis/gate-prep.png" width="40" height="40" alt="prep"/> | `:gate-prep:` | <img src="gatemojis/gate-pl.png" width="40" height="40" alt="pl"/> | <img src="gatemojis/gate-vegemite.png" width="40" height="40" alt="vegemite"/> | `:gate-vegemite:`
+<img src="gatemojis/gate-prep.png" width="40" height="40" alt="prep"/> | `:gate-prep:` | <img src="gatemojis/gate-pl.png" width="40" height="40" alt="pl"/> | `:gate-pl:` | <img src="gatemojis/gate-vegemite.png" width="40" height="40" alt="vegemite"/> | `:gate-vegemite:`
 <img src="gatemojis/gate-cnot.png" width="40" height="40" alt="cnot"/> | `:gate-cnot:` | <img src="gatemojis/gate-smile.png" width="40" height="40" alt="smile"/> | `:gate-smile:` | <img src="gatemojis/gate-lightning.png" width="40" height="40" alt="lightning"/> | `:gate-lightning:`
 <img src="gatemojis/gate-cnot2.png" width="40" height="40" alt="cnot2"/> | `:gate-cnot2:` | <img src="gatemojis/gate-laugh.png" width="40" height="40" alt="laugh"/> | `:gate-laugh:` | <img src="gatemojis/gate-cactus.png" width="40" height="40" alt="cactus"/> | `:gate-cactus:`
 <img src="gatemojis/gate-double.png" width="40" height="40" alt="double"/> | `:gate-double:` | <img src="gatemojis/gate-frown.png" width="40" height="40" alt="frown"/> | `:gate-frown:` | <img src="gatemojis/gate-heart.png" width="40" height="40" alt="heart"/> | `:gate-heart:`
