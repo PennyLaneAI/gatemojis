@@ -27,7 +27,7 @@ Gatemoji | Alias
 <img src="gatemojis/gate-lightning.png" width="40" height="40" alt="lightning"/> | `:gate-lightning:`
 <img src="gatemojis/gate-cactus.png" width="40" height="40" alt="cactus"/> | `:gate-cactus:`
 <img src="gatemojis/gate-heart.png" width="40" height="40" alt="heart"/> | `:gate-heart:`
-<img src="gatemojis/gate-question.png" width="40" height="40" alt="question"/> | `:gate-question:`
+<img src="gatemojis/gate-questions.png" width="40" height="40" alt="question"/> | `:gate-question:`
 <img src="gatemojis/gate-exclaim.png" width="40" height="40" alt="exclaim"/> | `:gate-exclaim:`
 <img src="gatemojis/gate-100.png" width="40" height="40" alt="100"/> | `:gate-100:`
 <img src="gatemojis/gate-bread.png" width="40" height="40" alt="bread"/> | `:gate-bread:`
@@ -56,6 +56,6 @@ Gatemojis are designed to be legible on both light or dark backgrounds, and at a
  src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img
  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
  src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
- 
+
  Feel free to download them, remix them, and use them!
 
