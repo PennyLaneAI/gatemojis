@@ -1,5 +1,8 @@
 # PennyLane Gatemojis™
 
+<img src="static/emoji_header_1.png" width="90%" height="45" alt="header image"/>
+<img src="static/emoji_header_2.png" width="90%" alt="header image"/>
+
 Quantum algorithm design is hard. Express your feelings through quantum circuits with Gatemojis™. Gatemojis are designed to be used by themselves or together — put them side-by-side for their wires to automatically connect.
 
 Download and use Gatemojis across Slack, Discord, and anywhere else that supports custom emojis!
