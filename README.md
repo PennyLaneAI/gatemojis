@@ -1,6 +1,8 @@
-# gatemojis
+# PennyLane Gatemojis™
 
-Quantum algorithm design is hard. Express your feelings through quantum circuits with Gatemojis™. Download and use Gatemojis across Slack, Discord, and anywhere else that supports custom emojis!
+Quantum algorithm design is hard. Express your feelings through quantum circuits with Gatemojis™. Gatemojis are designed to be used by themselves or together — put them side-by-side for their wires to automatically connect.
+
+Download and use Gatemojis across Slack, Discord, and anywhere else that supports custom emojis!
 
 ## Available gatemojis
 
