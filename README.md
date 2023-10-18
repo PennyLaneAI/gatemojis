@@ -1,13 +1,13 @@
-# PennyLane Gatemojis™
+# PennyLane Gatemojis
 
 <img src="static/emoji_header_1.png" width="90%" alt="header image"/>
 <img src="static/emoji_header_2.png" width="90%" alt="header image"/>
 
-Quantum algorithm design is hard. Express your feelings through quantum circuits with Gatemojis™. Gatemojis are designed to be used by themselves or together — put them side-by-side for their wires to automatically connect.
+Quantum algorithm design is hard, so express your feelings through quantum circuits with Gatemojis. Gatemojis are designed to be used by themselves or together — put them side-by-side for their wires to automatically connect.
 
-Gatemojis are designed to be legible on both light or dark backgrounds, and at a small size to always look their best 💄
+Gatemojis have been specially created to be legible on both light or dark backgrounds, and at a small size to always look their best 💄
 
-Save the Gatemoji images and use Gatemojis across [Slack](https://slack.com/help/articles/206870177-Add-custom-emoji-and-aliases-to-your-workspace), [Discord](https://support.discord.com/hc/en-us/articles/360036479811-Custom-Emojis), and anywhere else that supports custom emojis!
+Save the Gatemoji images and use Gatemojis across [Slack](https://slack.com/help/articles/206870177-Add-custom-emoji-and-aliases-to-your-workspace), [Discord](https://support.discord.com/hc/en-us/articles/360036479811-Custom-Emojis), and anywhere else that supports custom emojis.
 
 ## Available gatemojis
 
