@@ -27,7 +27,7 @@ Gatemoji | Alias | Gatemoji | Alias | Gatemoji | Alias
 <img src="gatemojis/gate-measure.png" width="45" height="45" alt="measure"/> | `:gate-measure:` | <img src="gatemojis/gate-shock.png" width="45" height="45" alt="shock"/> | `:gate-shock:` | <img src="gatemojis/gate-cyclops.png" width="45" height="45" alt="shock"/> | `:gate-cyclops:`
 <img src="gatemojis/gate-dnot.png" width="45" height="45" alt="ctrl2"/> | `:gate-dnot:` | <img src="gatemojis/gate-wave.png" width="45" height="45" alt="love"/> | `:gate-wave:` | <img src="gatemojis/gate-rocket.png" width="45" height="45" alt="measure2"/> | `:gate-rocket:` 
 <img src="gatemojis/gate-donut.png" width="45" height="45" alt="measure"/> | `:gate-donut:` | <img src="gatemojis/gate-xanadu.png" width="45" height="45" alt="shock"/> | `:gate-xanadu:` | <img src="gatemojis/gate-grimace.png" width="45" height="45" alt="shock"/> | `:gate-grimace:`
-
+<img src="gatemojis/gate-mad.png" width="45" height="45" alt="measure"/> | `:gate-mad:` | | | | |
 
 ## License
 
